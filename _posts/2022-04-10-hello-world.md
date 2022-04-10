@@ -1,3 +1,7 @@
+---
+title: "First post"
+date: 2022-04-10
+---
 title: "Hello world"
 ---
 ![hipster in the wild](https://d1u6g1e1nisfhs.cloudfront.net/wp-content/uploads/articles-hipster-style-sq.jpg)
